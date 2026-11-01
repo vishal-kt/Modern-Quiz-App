@@ -1,0 +1,6 @@
+{
+  "name": "SmartQuiz - Competitive Exam Practice Platform",
+  "description": "Smart Quiz & Practice Platform for RRB, SSC, Railway and Government competitive exams with Markdown and PDF question extraction, 45-second timed tests, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
